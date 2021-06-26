@@ -17,7 +17,7 @@ Make Geometry Dash crash by running this function.
 
 ## In which cases could this get used?
 
-- If people use no-clip and your level caughs them (see "Muffet Fight" (ID 38376412))
+- If people use no-clip and your level catches them (see "Muffet Fight" (ID 38376412))
 - Could be quite fitting for "glitch-style / cursed" levels
 
 ## How was this crash discovered?
